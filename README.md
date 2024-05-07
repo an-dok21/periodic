@@ -26,26 +26,3 @@ CSS, & JS.
 ![Period 3](screenshots/period-3.png)
 ![Isotopes](screenshots/isotopes.png)
 
-## Development
-Install the dependencies by running:
-```sh
-npm install
-```
-Start the node server with:
-```sh
-npm run dev
-```
-Identify syntax and style issues with:
-```sh
-npm run lint
-```
-Generate documentation with:
-```sh
-npm run doc
-```
-Run automated tests with:
-```sh
-npm run test
-```
-
-[Molecule](https://icons8.com/icon/C1tk3b2DIflx/molecule) icon by [Icons8](https://icons8.com)
